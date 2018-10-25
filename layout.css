@@ -1,0 +1,52 @@
+		body {
+			background: url(photo1.jpg);
+		}
+		.container {
+			width: 800px;
+			margin: auto;
+			background-color: white;
+			padding: 10px;
+			background-color: gray;
+		}
+		.header {
+			min-width: 50px;
+			background-color: #eee;
+		}
+		.header a {
+			padding: 10px;
+		}
+		.header img {
+			width: 800px;
+			height: 459px;
+			background-color: #eee; 
+		}
+		.newest.articles	{
+			background-color: #eee; 
+		}
+		.articles h1 {
+			padding-left: 15px;
+			padding-top: 30px;
+		}	
+		.content {
+			padding: 30px;
+		}
+		.content img {
+			float: left;
+			margin-right: 10px;
+			width: 275px;
+			height: 183px;
+		}
+		.footer {
+			width: auto;
+			background-color: #ccc;
+			padding: 20px;
+			text-align: center;
+			margin:20px;
+		}
+		.logo h1 {
+			margin-top: -60px; 
+			padding: 15px;
+		}
+		.menu p {
+			padding-top: 20px;
+		}
